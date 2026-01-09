@@ -1,6 +1,6 @@
 title: Futaba
 originalAuthor: You
-description: Generated on Sun, 04 Jan 2026 17:30:08 GMT
+description: Generated on Thu, 08 Jan 2026 23:25:54 GMT
 dependencies: 
 assets:
 - name: dll/KH2Moose.dll
@@ -13,17 +13,17 @@ assets:
   platform: pc
   source:
   - name: KH2Moose.ini
-- method: binarc
+- name: msg/jp/sys.bar
+  method: binarc
   multi:
   - name: msg/us/sys.bar
   - name: msg/uk/sys.bar
-  name: msg/jp/sys.bar
   source:
-  - method: kh2msg
-    name: sys
+  - name: sys
+    method: kh2msg
     source:
-    - language: en
-      name: NameFutaba.yml
+    - name: NameFutaba.yml
+      language: en
     type: list
 - name: obj/ACTOR_SORA.mdlx
   method: copy
@@ -289,6 +289,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/DEAD_BOSS.mdlx/-2.dds
+- name: remastered/obj/F_EX260.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_EX260.a.us/-0.dds
 - name: remastered/obj/H_EX640.mdlx/-0.dds
   method: copy
   source:
@@ -337,6 +341,26 @@ assets:
   method: copy
   source:
   - name: remastered/obj/LAST_HITMARK.mdlx/-2.dds
+- name: remastered/obj/M_EX860.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX860.mdlx/-0.dds
+- name: remastered/obj/M_EX950_CARD.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX950_CARD.a.us/-4.dds
+- name: remastered/obj/M_EX950_CARD.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX950_CARD.mdlx/-0.dds
+- name: remastered/obj/M_EX950_DICE.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX950_DICE.a.us/-3.dds
+- name: remastered/obj/M_EX950_DICE.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/M_EX950_DICE.mdlx/-0.dds
 - name: remastered/obj/PLAYER.mdlx/-0.dds
   method: copy
   source:
@@ -385,6 +409,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/PO08_PLAYER.mdlx/-2.dds
+- name: remastered/obj/P_EX100.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100.a.us/-8.dds
 - name: remastered/obj/P_EX100.mdlx/-0.dds
   method: copy
   source:
@@ -397,6 +425,14 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100.mdlx/-2.dds
+- name: remastered/obj/P_EX100_AL.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_AL.a.us/-8.dds
+- name: remastered/obj/P_EX100_AL_CARPET.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-8.dds
 - name: remastered/obj/P_EX100_AL_CARPET.mdlx/-0.dds
   method: copy
   source:
@@ -409,6 +445,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_AL_CARPET.mdlx/-2.dds
+- name: remastered/obj/P_EX100_BTLF.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_BTLF.a.us/-4.dds
 - name: remastered/obj/P_EX100_BTLF.mdlx/-0.dds
   method: copy
   source:
@@ -421,6 +461,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_BTLF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
 - name: remastered/obj/P_EX100_HTLF.mdlx/-0.dds
   method: copy
   source:
@@ -445,6 +489,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_HTLF_BTL.mdlx/-2.dds
+- name: remastered/obj/P_EX100_KH1F.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-9.dds
 - name: remastered/obj/P_EX100_KH1F.mdlx/-0.dds
   method: copy
   source:
@@ -469,6 +517,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_LAST.mdlx/-2.dds
+- name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
 - name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
   method: copy
   source:
@@ -481,6 +533,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_MAGF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_ME.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_ME.a.us/-8.dds
 - name: remastered/obj/P_EX100_MEMO.mdlx/-0.dds
   method: copy
   source:
@@ -493,6 +549,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_MEMO.mdlx/-2.dds
+- name: remastered/obj/P_EX100_NM.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM.a.us/-8.dds
 - name: remastered/obj/P_EX100_NM.mdlx/-0.dds
   method: copy
   source:
@@ -505,6 +565,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_NM.mdlx/-2.dds
+- name: remastered/obj/P_EX100_NM_BTLF.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_BTLF.a.us/-4.dds
 - name: remastered/obj/P_EX100_NM_BTLF.mdlx/-0.dds
   method: copy
   source:
@@ -517,6 +581,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_NM_BTLF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_NM_HTLF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_HTLF.a.us/-3.dds
 - name: remastered/obj/P_EX100_NM_HTLF.mdlx/-0.dds
   method: copy
   source:
@@ -529,6 +597,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_NM_HTLF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_NM_KH1F.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_KH1F.a.us/-9.dds
 - name: remastered/obj/P_EX100_NM_KH1F.mdlx/-0.dds
   method: copy
   source:
@@ -541,6 +613,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_NM_KH1F.mdlx/-2.dds
+- name: remastered/obj/P_EX100_NM_MAGF.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_MAGF.a.us/-2.dds
 - name: remastered/obj/P_EX100_NM_MAGF.mdlx/-0.dds
   method: copy
   source:
@@ -553,6 +629,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_NM_MAGF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_NM_TRIF.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_TRIF.a.us/-5.dds
 - name: remastered/obj/P_EX100_NM_TRIF.mdlx/-0.dds
   method: copy
   source:
@@ -565,6 +645,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_NM_TRIF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_NM_ULTF.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_ULTF.a.us/-10.dds
 - name: remastered/obj/P_EX100_NM_ULTF.mdlx/-0.dds
   method: copy
   source:
@@ -589,6 +673,14 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_NPC.mdlx/-2.dds
+- name: remastered/obj/P_EX100_PR.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_PR.a.us/-8.dds
+- name: remastered/obj/P_EX100_SIDECAR.a.us/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.png
 - name: remastered/obj/P_EX100_SIDECAR.mdlx/-0.dds
   method: copy
   source:
@@ -601,6 +693,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_SIDECAR.mdlx/-2.dds
+- name: remastered/obj/P_EX100_TR.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR.a.us/-8.dds
 - name: remastered/obj/P_EX100_TR.mdlx/-0.dds
   method: copy
   source:
@@ -613,6 +709,14 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TR.mdlx/-2.dds
+- name: remastered/obj/P_EX100_TR.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR.mdlx/-3.dds
+- name: remastered/obj/P_EX100_TRIF.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TRIF.a.us/-5.dds
 - name: remastered/obj/P_EX100_TRIF.mdlx/-0.dds
   method: copy
   source:
@@ -625,6 +729,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TRIF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_TR_BTLF.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_BTLF.a.us/-4.dds
 - name: remastered/obj/P_EX100_TR_BTLF.mdlx/-0.dds
   method: copy
   source:
@@ -637,6 +745,18 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TR_BTLF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_TR_BTLF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_BTLF.mdlx/-3.dds
+- name: remastered/obj/P_EX100_TR_BTLF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_BTLF.mdlx/-4.dds
+- name: remastered/obj/P_EX100_TR_HTLF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_HTLF.a.us/-3.dds
 - name: remastered/obj/P_EX100_TR_HTLF.mdlx/-0.dds
   method: copy
   source:
@@ -649,6 +769,18 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TR_HTLF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_TR_HTLF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_HTLF.mdlx/-3.dds
+- name: remastered/obj/P_EX100_TR_HTLF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_HTLF.mdlx/-4.dds
+- name: remastered/obj/P_EX100_TR_KH1F.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_KH1F.a.us/-9.dds
 - name: remastered/obj/P_EX100_TR_KH1F.mdlx/-0.dds
   method: copy
   source:
@@ -661,6 +793,22 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TR_KH1F.mdlx/-2.dds
+- name: remastered/obj/P_EX100_TR_KH1F.mdlx/-22.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_KH1F.mdlx/-22.dds
+- name: remastered/obj/P_EX100_TR_KH1F.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_KH1F.mdlx/-3.dds
+- name: remastered/obj/P_EX100_TR_KH1F.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_KH1F.mdlx/-4.dds
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.us/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.us/-8.png
 - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.mdlx/-0.dds
   method: copy
   source:
@@ -673,6 +821,18 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.mdlx/-2.dds
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.mdlx/-3.dds
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.mdlx/-4.dds
+- name: remastered/obj/P_EX100_TR_MAGF.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_MAGF.a.us/-2.dds
 - name: remastered/obj/P_EX100_TR_MAGF.mdlx/-0.dds
   method: copy
   source:
@@ -685,6 +845,18 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TR_MAGF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_TR_MAGF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_MAGF.mdlx/-3.dds
+- name: remastered/obj/P_EX100_TR_MAGF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_MAGF.mdlx/-4.dds
+- name: remastered/obj/P_EX100_TR_TRIF.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_TRIF.a.us/-5.dds
 - name: remastered/obj/P_EX100_TR_TRIF.mdlx/-0.dds
   method: copy
   source:
@@ -697,6 +869,18 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TR_TRIF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_TR_TRIF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_TRIF.mdlx/-3.dds
+- name: remastered/obj/P_EX100_TR_TRIF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_TRIF.mdlx/-4.dds
+- name: remastered/obj/P_EX100_TR_ULTF.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_ULTF.a.us/-10.dds
 - name: remastered/obj/P_EX100_TR_ULTF.mdlx/-0.dds
   method: copy
   source:
@@ -709,6 +893,18 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TR_ULTF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_TR_ULTF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_ULTF.mdlx/-3.dds
+- name: remastered/obj/P_EX100_TR_ULTF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_ULTF.mdlx/-4.dds
+- name: remastered/obj/P_EX100_ULTF.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_ULTF.a.us/-10.dds
 - name: remastered/obj/P_EX100_ULTF.mdlx/-0.dds
   method: copy
   source:
@@ -721,6 +917,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_ULTF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_WI.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.a.us/-8.dds
 - name: remastered/obj/P_EX100_WI.mdlx/-0.dds
   method: copy
   source:
@@ -733,6 +933,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI.mdlx/-2.dds
+- name: remastered/obj/P_EX100_WI_BTLF.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-4.dds
 - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-0.dds
   method: copy
   source:
@@ -745,6 +949,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
 - name: remastered/obj/P_EX100_WI_HTLF.mdlx/-0.dds
   method: copy
   source:
@@ -757,6 +965,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_HTLF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_WI_KH1F.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-9.dds
 - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-0.dds
   method: copy
   source:
@@ -769,6 +981,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-2.dds
+- name: remastered/obj/P_EX100_WI_MAGF.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_MAGF.a.us/-2.dds
 - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-0.dds
   method: copy
   source:
@@ -781,6 +997,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_WI_TRIF.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-5.dds
 - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-0.dds
   method: copy
   source:
@@ -793,6 +1013,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_WI_ULTF.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-10.dds
 - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-0.dds
   method: copy
   source:
@@ -817,6 +1041,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WM.mdlx/-2.dds
+- name: remastered/obj/P_EX100_XM.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_XM.a.us/-8.dds
 - name: remastered/obj/P_EX100_XM.mdlx/-0.dds
   method: copy
   source:
@@ -829,6 +1057,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM.mdlx/-2.dds
+- name: remastered/obj/P_EX100_XM_BTLF.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_XM_BTLF.a.us/-4.dds
 - name: remastered/obj/P_EX100_XM_BTLF.mdlx/-0.dds
   method: copy
   source:
@@ -841,6 +1073,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM_BTLF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_XM_HTLF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_XM_HTLF.a.us/-3.dds
 - name: remastered/obj/P_EX100_XM_HTLF.mdlx/-0.dds
   method: copy
   source:
@@ -853,6 +1089,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM_HTLF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_XM_KH1F.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_XM_KH1F.a.us/-9.dds
 - name: remastered/obj/P_EX100_XM_KH1F.mdlx/-0.dds
   method: copy
   source:
@@ -865,6 +1105,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM_KH1F.mdlx/-2.dds
+- name: remastered/obj/P_EX100_XM_MAGF.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_XM_MAGF.a.us/-2.dds
 - name: remastered/obj/P_EX100_XM_MAGF.mdlx/-0.dds
   method: copy
   source:
@@ -877,6 +1121,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM_MAGF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_XM_TRIF.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_XM_TRIF.a.us/-5.dds
 - name: remastered/obj/P_EX100_XM_TRIF.mdlx/-0.dds
   method: copy
   source:
@@ -889,6 +1137,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM_TRIF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_XM_ULTF.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_XM_ULTF.a.us/-10.dds
 - name: remastered/obj/P_EX100_XM_ULTF.mdlx/-0.dds
   method: copy
   source:
@@ -901,10 +1153,34 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM_ULTF.mdlx/-2.dds
+- name: remastered/obj/P_EX110.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX110.a.us/-0.dds
+- name: remastered/obj/P_EX110_BTLF.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX110_BTLF.a.us/-0.dds
+- name: remastered/obj/P_EX120.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX120.a.us/-8.dds
+- name: remastered/obj/P_LK100.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_LK100.a.us/-5.dds
 - name: remastered/obj/P_LK100.mdlx/-0.dds
   method: copy
   source:
   - name: remastered/obj/P_LK100.mdlx/-0.dds
+- name: remastered/obj/SAVE_POINT.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/SAVE_POINT.a.us/-0.dds
+- name: remastered/obj/SAVE_POINT.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/SAVE_POINT.a.us/-1.dds
 - name: remastered/obj/TR_PLAYER.mdlx/-0.dds
   method: copy
   source:
@@ -929,3 +1205,611 @@ assets:
   method: copy
   source:
   - name: remastered/obj/WM_EX100.mdlx/-2.dds
+- name: obj/P_EX100_TR.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_TR.a.us
+- name: obj/P_EX100_TR_BTLF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_TR_BTLF.a.us
+- name: obj/P_EX100_TR_HTLF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_TR_HTLF.a.us
+- name: obj/P_EX100_TR_KH1F.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_TR_KH1F.a.us
+- name: obj/P_EX100_TR_MAGF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_TR_MAGF.a.us
+- name: obj/P_EX100_TR_TRIF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_TR_TRIF.a.us
+- name: obj/P_EX100_TR_ULTF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_TR_ULTF.a.us
+- name: vagstream/End_Piano.win32.scd
+  method: copy
+  source:
+  - name: vagstream/End_Piano.win32.scd
+- name: vagstream/Title.win32.scd
+  method: copy
+  source:
+  - name: vagstream/Title.win32.scd
+- name: remastered/menu/jm_puzzle/puzzle010.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jm_puzzle/puzzle010.bin/-0.dds
+- name: remastered/menu/jm_puzzle/puzzle020.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jm_puzzle/puzzle020.bin/-0.dds
+- name: remastered/menu/jm_puzzle/puzzle030.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jm_puzzle/puzzle030.bin/-0.dds
+- name: remastered/menu/jm_puzzle/puzzle040.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jm_puzzle/puzzle040.bin/-0.dds
+- name: remastered/menu/jm_puzzle/puzzle050.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jm_puzzle/puzzle050.bin/-0.dds
+- name: remastered/menu/jm_puzzle/puzzle060.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jm_puzzle/puzzle060.bin/-0.dds
+- name: remastered/menu/shopface/p_ex100.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_ex100.bin/-0.dds
+- name: remastered/menu/shopface/p_ex100_10.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_ex100_10.bin/-0.dds
+- name: remastered/menu/shopface/p_ex100_20.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_ex100_20.bin/-0.dds
+- name: remastered/menu/shopface/p_ex100_30.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_ex100_30.bin/-0.dds
+- name: remastered/menu/shopface/p_ex110.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_ex110.bin/-0.dds
+- name: remastered/menu/shopface/p_ex120.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_ex120.bin/-0.dds
+- name: remastered/menu/shopface/p_lk100.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_lk100.bin/-0.dds
+- name: remastered/menu/shopface/p_xm100.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_xm100.bin/-0.dds
+- name: remastered/map/hb26.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-0.dds
+- name: remastered/map/hb26.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-1.dds
+- name: remastered/map/hb26.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-10.dds
+- name: remastered/map/hb26.map/-100.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-100.dds
+- name: remastered/map/hb26.map/-101.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-101.dds
+- name: remastered/map/hb26.map/-102.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-102.dds
+- name: remastered/map/hb26.map/-103.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-103.dds
+- name: remastered/map/hb26.map/-104.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-104.dds
+- name: remastered/map/hb26.map/-105.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-105.dds
+- name: remastered/map/hb26.map/-106.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-106.dds
+- name: remastered/map/hb26.map/-107.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-107.dds
+- name: remastered/map/hb26.map/-108.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-108.dds
+- name: remastered/map/hb26.map/-109.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-109.dds
+- name: remastered/map/hb26.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-11.dds
+- name: remastered/map/hb26.map/-110.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-110.dds
+- name: remastered/map/hb26.map/-111.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-111.dds
+- name: remastered/map/hb26.map/-112.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-112.dds
+- name: remastered/map/hb26.map/-113.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-113.dds
+- name: remastered/map/hb26.map/-114.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-114.dds
+- name: remastered/map/hb26.map/-115.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-115.dds
+- name: remastered/map/hb26.map/-116.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-116.dds
+- name: remastered/map/hb26.map/-117.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-117.dds
+- name: remastered/map/hb26.map/-118.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-118.dds
+- name: remastered/map/hb26.map/-119.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-119.dds
+- name: remastered/map/hb26.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-12.dds
+- name: remastered/map/hb26.map/-120.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-120.dds
+- name: remastered/map/hb26.map/-121.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-121.dds
+- name: remastered/map/hb26.map/-122.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-122.dds
+- name: remastered/map/hb26.map/-123.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-123.dds
+- name: remastered/map/hb26.map/-124.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-124.dds
+- name: remastered/map/hb26.map/-125.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-125.dds
+- name: remastered/map/hb26.map/-126.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-126.dds
+- name: remastered/map/hb26.map/-127.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-127.dds
+- name: remastered/map/hb26.map/-128.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-128.dds
+- name: remastered/map/hb26.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-13.dds
+- name: remastered/map/hb26.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-14.dds
+- name: remastered/map/hb26.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-15.dds
+- name: remastered/map/hb26.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-16.dds
+- name: remastered/map/hb26.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-17.dds
+- name: remastered/map/hb26.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-18.dds
+- name: remastered/map/hb26.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-19.dds
+- name: remastered/map/hb26.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-2.dds
+- name: remastered/map/hb26.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-20.dds
+- name: remastered/map/hb26.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-21.dds
+- name: remastered/map/hb26.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-22.dds
+- name: remastered/map/hb26.map/-23.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-23.dds
+- name: remastered/map/hb26.map/-24.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-24.dds
+- name: remastered/map/hb26.map/-25.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-25.dds
+- name: remastered/map/hb26.map/-26.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-26.dds
+- name: remastered/map/hb26.map/-27.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-27.dds
+- name: remastered/map/hb26.map/-28.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-28.dds
+- name: remastered/map/hb26.map/-29.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-29.dds
+- name: remastered/map/hb26.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-3.dds
+- name: remastered/map/hb26.map/-30.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-30.dds
+- name: remastered/map/hb26.map/-31.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-31.dds
+- name: remastered/map/hb26.map/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-32.dds
+- name: remastered/map/hb26.map/-33.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-33.dds
+- name: remastered/map/hb26.map/-34.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-34.dds
+- name: remastered/map/hb26.map/-35.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-35.dds
+- name: remastered/map/hb26.map/-36.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-36.dds
+- name: remastered/map/hb26.map/-37.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-37.dds
+- name: remastered/map/hb26.map/-38.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-38.dds
+- name: remastered/map/hb26.map/-39.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-39.dds
+- name: remastered/map/hb26.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-4.dds
+- name: remastered/map/hb26.map/-40.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-40.dds
+- name: remastered/map/hb26.map/-41.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-41.dds
+- name: remastered/map/hb26.map/-42.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-42.dds
+- name: remastered/map/hb26.map/-43.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-43.dds
+- name: remastered/map/hb26.map/-44.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-44.dds
+- name: remastered/map/hb26.map/-45.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-45.dds
+- name: remastered/map/hb26.map/-46.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-46.dds
+- name: remastered/map/hb26.map/-47.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-47.dds
+- name: remastered/map/hb26.map/-48.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-48.dds
+- name: remastered/map/hb26.map/-49.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-49.dds
+- name: remastered/map/hb26.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-5.dds
+- name: remastered/map/hb26.map/-50.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-50.dds
+- name: remastered/map/hb26.map/-51.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-51.dds
+- name: remastered/map/hb26.map/-52.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-52.dds
+- name: remastered/map/hb26.map/-53.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-53.dds
+- name: remastered/map/hb26.map/-54.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-54.dds
+- name: remastered/map/hb26.map/-55.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-55.dds
+- name: remastered/map/hb26.map/-56.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-56.dds
+- name: remastered/map/hb26.map/-57.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-57.dds
+- name: remastered/map/hb26.map/-58.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-58.dds
+- name: remastered/map/hb26.map/-59.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-59.dds
+- name: remastered/map/hb26.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-6.dds
+- name: remastered/map/hb26.map/-60.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-60.dds
+- name: remastered/map/hb26.map/-61.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-61.dds
+- name: remastered/map/hb26.map/-62.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-62.dds
+- name: remastered/map/hb26.map/-63.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-63.dds
+- name: remastered/map/hb26.map/-64.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-64.dds
+- name: remastered/map/hb26.map/-65.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-65.dds
+- name: remastered/map/hb26.map/-66.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-66.dds
+- name: remastered/map/hb26.map/-67.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-67.dds
+- name: remastered/map/hb26.map/-68.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-68.dds
+- name: remastered/map/hb26.map/-69.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-69.dds
+- name: remastered/map/hb26.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-7.dds
+- name: remastered/map/hb26.map/-70.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-70.dds
+- name: remastered/map/hb26.map/-71.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-71.dds
+- name: remastered/map/hb26.map/-72.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-72.dds
+- name: remastered/map/hb26.map/-73.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-73.dds
+- name: remastered/map/hb26.map/-74.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-74.dds
+- name: remastered/map/hb26.map/-75.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-75.dds
+- name: remastered/map/hb26.map/-76.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-76.dds
+- name: remastered/map/hb26.map/-77.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-77.dds
+- name: remastered/map/hb26.map/-78.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-78.dds
+- name: remastered/map/hb26.map/-79.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-79.dds
+- name: remastered/map/hb26.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-8.dds
+- name: remastered/map/hb26.map/-80.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-80.dds
+- name: remastered/map/hb26.map/-81.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-81.dds
+- name: remastered/map/hb26.map/-82.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-82.dds
+- name: remastered/map/hb26.map/-83.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-83.dds
+- name: remastered/map/hb26.map/-84.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-84.dds
+- name: remastered/map/hb26.map/-85.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-85.dds
+- name: remastered/map/hb26.map/-86.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-86.dds
+- name: remastered/map/hb26.map/-87.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-87.dds
+- name: remastered/map/hb26.map/-88.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-88.dds
+- name: remastered/map/hb26.map/-89.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-89.dds
+- name: remastered/map/hb26.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-9.dds
+- name: remastered/map/hb26.map/-90.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-90.dds
+- name: remastered/map/hb26.map/-91.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-91.dds
+- name: remastered/map/hb26.map/-92.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-92.dds
+- name: remastered/map/hb26.map/-93.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-93.dds
+- name: remastered/map/hb26.map/-94.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-94.dds
+- name: remastered/map/hb26.map/-95.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-95.dds
+- name: remastered/map/hb26.map/-96.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-96.dds
+- name: remastered/map/hb26.map/-97.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-97.dds
+- name: remastered/map/hb26.map/-98.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-98.dds
+- name: remastered/map/hb26.map/-99.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-99.dds
