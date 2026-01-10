@@ -25,6 +25,10 @@ assets:
     - name: NameFutaba.yml
       language: en
     type: list
+- name: scripts/unrender.lua
+  method: copy
+  source:
+  - name: unrender.lua
 - name: obj/ACTOR_SORA.mdlx
   method: copy
   source:
