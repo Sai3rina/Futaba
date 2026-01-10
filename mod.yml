@@ -1813,3 +1813,7 @@ assets:
   method: copy
   source:
   - name: remastered/map/hb26.map/-99.dds
+- name: obj/P_EX100_TR_ULTF.mset
+  method: copy
+  source:
+  - name: obj/P_EX100_TR_ULTF.mset
