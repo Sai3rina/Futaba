@@ -1,6 +1,6 @@
 title: Futaba
 originalAuthor: You
-description: Generated on Thu, 08 Jan 2026 23:25:54 GMT
+description: HT added and XMass
 dependencies: 
 assets:
 - name: dll/KH2Moose.dll
@@ -1961,3 +1961,35 @@ assets:
   method: copy
   source:
   - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar2.png
+- name: obj/P_EX100_XM.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM.a.us
+- name: obj/P_EX100_XM_BTLF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_BTLF.a.us
+- name: obj/P_EX100_XM_HTLF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_HTLF.a.us
+- name: obj/P_EX100_XM_KH1F.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_KH1F.a.us
+- name: obj/P_EX100_XM_MAGF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_MAGF.a.us
+- name: obj/P_EX100_XM_TRIF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_TRIF.a.us
+- name: obj/P_EX100_XM_ULTF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_ULTF.a.us
+- name: obj/P_EX100_XM_ULTF.mset
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_ULTF.mset
