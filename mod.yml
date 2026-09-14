@@ -2241,3 +2241,71 @@ assets:
   method: copy
   source:
   - name: voice/us/battle/wi0_sora.win32.scd
+- name: menu/us/title.2ld
+  method: copy
+  source:
+  - name: menu/us/title.2ld
+- name: remastered/menu/us/ending.2ld/US_ending_2ld2.png
+  method: copy
+  source:
+  - name: remastered/menu/us/ending.2ld/US_ending_2ld2.png
+- name: remastered/menu/us/ending.2ld/US_ending_2ld3.png
+  method: copy
+  source:
+  - name: remastered/menu/us/ending.2ld/US_ending_2ld3.png
+- name: remastered/menu/us/ending.2ld/US_ending_2ld4.png
+  method: copy
+  source:
+  - name: remastered/menu/us/ending.2ld/US_ending_2ld4.png
+- name: remastered/menu/us/ending.2ld/US_ending_2ld5.png
+  method: copy
+  source:
+  - name: remastered/menu/us/ending.2ld/US_ending_2ld5.png
+- name: remastered/menu/us/ending.2ld/US_ending_2ld6.png
+  method: copy
+  source:
+  - name: remastered/menu/us/ending.2ld/US_ending_2ld6.png
+- name: remastered/menu/us/ending.2ld/US_ending_2ld7.png
+  method: copy
+  source:
+  - name: remastered/menu/us/ending.2ld/US_ending_2ld7.png
+- name: remastered/menu/us/save.2ld/US_save_2ld1.png
+  method: copy
+  source:
+  - name: remastered/menu/us/save.2ld/US_save_2ld1.png
+- name: remastered/menu/us/title.2ld/US_title_2ld0.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld0.png
+- name: remastered/menu/us/title.2ld/US_title_2ld1.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld1.png
+- name: remastered/menu/us/title.2ld/US_title_2ld2.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld2.png
+- name: remastered/menu/us/title.2ld/US_title_2ld3.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld3.png
+- name: remastered/menu/us/title.2ld/US_title_2ld4.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld4.png
+- name: remastered/menu/us/title.2ld/US_title_2ld5.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld5.png
+- name: remastered/menu/us/title.2ld/US_title_2ld6.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld6.png
+- name: remastered/menu/us/title.2ld/US_title_2ld7.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld7.png
+- name: remastered/menu/us/title.2ld/US_title_2ld8.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld8.png
