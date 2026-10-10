@@ -801,10 +801,6 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TR_KH1F.mdlx/-2.dds
-- name: remastered/obj/P_EX100_TR_KH1F.mdlx/-22.dds
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_TR_KH1F.mdlx/-22.dds
 - name: remastered/obj/P_EX100_TR_KH1F.mdlx/-3.dds
   method: copy
   source:
@@ -2309,3 +2305,31 @@ assets:
   method: copy
   source:
   - name: remastered/menu/us/title.2ld/US_title_2ld8.png
+- name: obj/B_EX390.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX390.mdlx
+- name: remastered/obj/B_EX390.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/B_EX390.mdlx/-0.dds
+- name: remastered/obj/B_EX390.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/B_EX390.mdlx/-1.dds
+- name: remastered/obj/B_EX390.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/B_EX390.mdlx/-2.dds
+- name: remastered/obj/B_EX390.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/B_EX390.mdlx/-3.dds
+- name: remastered/obj/B_EX390.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/B_EX390.mdlx/-4.dds
+- name: remastered/obj/B_EX390.a.us/Voice/battle/us/n_roxas
+  method: copy
+  source:
+  - name: remastered/obj/B_EX390.a.us/Voice/battle/us/n_roxas
