@@ -2333,3 +2333,39 @@ assets:
   method: copy
   source:
   - name: remastered/obj/B_EX390.a.us/Voice/battle/us/n_roxas
+- name: obj/P_EX110.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX110.mdlx
+- name: obj/P_EX110_BTLF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX110_BTLF.mdlx
+- name: voice/us/battle/tt0_roxas.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/tt0_roxas.win32.scd
+- name: remastered/obj/P_EX110.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX110.mdlx/-0.dds
+- name: remastered/obj/P_EX110.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX110.mdlx/-1.dds
+- name: remastered/obj/P_EX110.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX110.mdlx/-2.dds
+- name: remastered/obj/P_EX110_BTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX110_BTLF.mdlx/-0.dds
+- name: remastered/obj/P_EX110_BTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX110_BTLF.mdlx/-1.dds
+- name: remastered/obj/P_EX110_BTLF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX110_BTLF.mdlx/-2.dds
