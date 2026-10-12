@@ -2369,3 +2369,35 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX110_BTLF.mdlx/-2.dds
+- name: obj/W_EX010.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010.mdlx
+- name: remastered/obj/W_EX010.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010.mdlx/-0.dds
+- name: obj/W_EX010_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_NM.mdlx
+- name: obj/W_EX010_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_TR.mdlx
+- name: obj/W_EX010_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_WI.mdlx
+- name: remastered/obj/W_EX010_NM.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_NM.mdlx/-0.dds
+- name: remastered/obj/W_EX010_TR.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_TR.mdlx/-0.dds
+- name: remastered/obj/W_EX010_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_WI.mdlx/-0.dds
