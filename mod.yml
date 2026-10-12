@@ -2401,3 +2401,523 @@ assets:
   method: copy
   source:
   - name: remastered/obj/W_EX010_WI.mdlx/-0.dds
+- name: remastered/itempic/item-043.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/itempic/item-043.imd/-0.dds
+- name: remastered/map/hb26.mapBackup/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-0.dds
+- name: remastered/map/hb26.mapBackup/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-1.dds
+- name: remastered/map/hb26.mapBackup/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-10.dds
+- name: remastered/map/hb26.mapBackup/-100.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-100.dds
+- name: remastered/map/hb26.mapBackup/-101.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-101.dds
+- name: remastered/map/hb26.mapBackup/-102.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-102.dds
+- name: remastered/map/hb26.mapBackup/-103.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-103.dds
+- name: remastered/map/hb26.mapBackup/-104.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-104.dds
+- name: remastered/map/hb26.mapBackup/-105.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-105.dds
+- name: remastered/map/hb26.mapBackup/-106.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-106.dds
+- name: remastered/map/hb26.mapBackup/-107.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-107.dds
+- name: remastered/map/hb26.mapBackup/-108.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-108.dds
+- name: remastered/map/hb26.mapBackup/-109.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-109.dds
+- name: remastered/map/hb26.mapBackup/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-11.dds
+- name: remastered/map/hb26.mapBackup/-110.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-110.dds
+- name: remastered/map/hb26.mapBackup/-111.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-111.dds
+- name: remastered/map/hb26.mapBackup/-112.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-112.dds
+- name: remastered/map/hb26.mapBackup/-113.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-113.dds
+- name: remastered/map/hb26.mapBackup/-114.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-114.dds
+- name: remastered/map/hb26.mapBackup/-115.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-115.dds
+- name: remastered/map/hb26.mapBackup/-116.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-116.dds
+- name: remastered/map/hb26.mapBackup/-117.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-117.dds
+- name: remastered/map/hb26.mapBackup/-118.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-118.dds
+- name: remastered/map/hb26.mapBackup/-119.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-119.dds
+- name: remastered/map/hb26.mapBackup/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-12.dds
+- name: remastered/map/hb26.mapBackup/-120.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-120.dds
+- name: remastered/map/hb26.mapBackup/-121.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-121.dds
+- name: remastered/map/hb26.mapBackup/-122.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-122.dds
+- name: remastered/map/hb26.mapBackup/-123.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-123.dds
+- name: remastered/map/hb26.mapBackup/-124.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-124.dds
+- name: remastered/map/hb26.mapBackup/-125.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-125.dds
+- name: remastered/map/hb26.mapBackup/-126.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-126.dds
+- name: remastered/map/hb26.mapBackup/-127.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-127.dds
+- name: remastered/map/hb26.mapBackup/-128.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-128.dds
+- name: remastered/map/hb26.mapBackup/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-13.dds
+- name: remastered/map/hb26.mapBackup/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-14.dds
+- name: remastered/map/hb26.mapBackup/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-15.dds
+- name: remastered/map/hb26.mapBackup/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-16.dds
+- name: remastered/map/hb26.mapBackup/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-17.dds
+- name: remastered/map/hb26.mapBackup/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-18.dds
+- name: remastered/map/hb26.mapBackup/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-19.dds
+- name: remastered/map/hb26.mapBackup/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-2.dds
+- name: remastered/map/hb26.mapBackup/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-20.dds
+- name: remastered/map/hb26.mapBackup/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-21.dds
+- name: remastered/map/hb26.mapBackup/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-22.dds
+- name: remastered/map/hb26.mapBackup/-23.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-23.dds
+- name: remastered/map/hb26.mapBackup/-24.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-24.dds
+- name: remastered/map/hb26.mapBackup/-25.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-25.dds
+- name: remastered/map/hb26.mapBackup/-26.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-26.dds
+- name: remastered/map/hb26.mapBackup/-27.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-27.dds
+- name: remastered/map/hb26.mapBackup/-28.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-28.dds
+- name: remastered/map/hb26.mapBackup/-29.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-29.dds
+- name: remastered/map/hb26.mapBackup/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-3.dds
+- name: remastered/map/hb26.mapBackup/-30.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-30.dds
+- name: remastered/map/hb26.mapBackup/-31.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-31.dds
+- name: remastered/map/hb26.mapBackup/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-32.dds
+- name: remastered/map/hb26.mapBackup/-33.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-33.dds
+- name: remastered/map/hb26.mapBackup/-34.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-34.dds
+- name: remastered/map/hb26.mapBackup/-35.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-35.dds
+- name: remastered/map/hb26.mapBackup/-36.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-36.dds
+- name: remastered/map/hb26.mapBackup/-37.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-37.dds
+- name: remastered/map/hb26.mapBackup/-38.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-38.dds
+- name: remastered/map/hb26.mapBackup/-39.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-39.dds
+- name: remastered/map/hb26.mapBackup/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-4.dds
+- name: remastered/map/hb26.mapBackup/-40.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-40.dds
+- name: remastered/map/hb26.mapBackup/-41.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-41.dds
+- name: remastered/map/hb26.mapBackup/-42.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-42.dds
+- name: remastered/map/hb26.mapBackup/-43.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-43.dds
+- name: remastered/map/hb26.mapBackup/-44.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-44.dds
+- name: remastered/map/hb26.mapBackup/-45.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-45.dds
+- name: remastered/map/hb26.mapBackup/-46.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-46.dds
+- name: remastered/map/hb26.mapBackup/-47.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-47.dds
+- name: remastered/map/hb26.mapBackup/-48.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-48.dds
+- name: remastered/map/hb26.mapBackup/-49.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-49.dds
+- name: remastered/map/hb26.mapBackup/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-5.dds
+- name: remastered/map/hb26.mapBackup/-50.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-50.dds
+- name: remastered/map/hb26.mapBackup/-51.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-51.dds
+- name: remastered/map/hb26.mapBackup/-52.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-52.dds
+- name: remastered/map/hb26.mapBackup/-53.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-53.dds
+- name: remastered/map/hb26.mapBackup/-54.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-54.dds
+- name: remastered/map/hb26.mapBackup/-55.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-55.dds
+- name: remastered/map/hb26.mapBackup/-56.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-56.dds
+- name: remastered/map/hb26.mapBackup/-57.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-57.dds
+- name: remastered/map/hb26.mapBackup/-58.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-58.dds
+- name: remastered/map/hb26.mapBackup/-59.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-59.dds
+- name: remastered/map/hb26.mapBackup/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-6.dds
+- name: remastered/map/hb26.mapBackup/-60.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-60.dds
+- name: remastered/map/hb26.mapBackup/-61.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-61.dds
+- name: remastered/map/hb26.mapBackup/-62.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-62.dds
+- name: remastered/map/hb26.mapBackup/-63.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-63.dds
+- name: remastered/map/hb26.mapBackup/-64.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-64.dds
+- name: remastered/map/hb26.mapBackup/-65.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-65.dds
+- name: remastered/map/hb26.mapBackup/-66.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-66.dds
+- name: remastered/map/hb26.mapBackup/-67.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-67.dds
+- name: remastered/map/hb26.mapBackup/-68.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-68.dds
+- name: remastered/map/hb26.mapBackup/-69.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-69.dds
+- name: remastered/map/hb26.mapBackup/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-7.dds
+- name: remastered/map/hb26.mapBackup/-70.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-70.dds
+- name: remastered/map/hb26.mapBackup/-71.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-71.dds
+- name: remastered/map/hb26.mapBackup/-72.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-72.dds
+- name: remastered/map/hb26.mapBackup/-73.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-73.dds
+- name: remastered/map/hb26.mapBackup/-74.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-74.dds
+- name: remastered/map/hb26.mapBackup/-75.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-75.dds
+- name: remastered/map/hb26.mapBackup/-76.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-76.dds
+- name: remastered/map/hb26.mapBackup/-77.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-77.dds
+- name: remastered/map/hb26.mapBackup/-78.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-78.dds
+- name: remastered/map/hb26.mapBackup/-79.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-79.dds
+- name: remastered/map/hb26.mapBackup/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-8.dds
+- name: remastered/map/hb26.mapBackup/-80.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-80.dds
+- name: remastered/map/hb26.mapBackup/-81.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-81.dds
+- name: remastered/map/hb26.mapBackup/-82.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-82.dds
+- name: remastered/map/hb26.mapBackup/-83.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-83.dds
+- name: remastered/map/hb26.mapBackup/-84.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-84.dds
+- name: remastered/map/hb26.mapBackup/-85.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-85.dds
+- name: remastered/map/hb26.mapBackup/-86.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-86.dds
+- name: remastered/map/hb26.mapBackup/-87.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-87.dds
+- name: remastered/map/hb26.mapBackup/-88.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-88.dds
+- name: remastered/map/hb26.mapBackup/-89.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-89.dds
+- name: remastered/map/hb26.mapBackup/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-9.dds
+- name: remastered/map/hb26.mapBackup/-90.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-90.dds
+- name: remastered/map/hb26.mapBackup/-91.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-91.dds
+- name: remastered/map/hb26.mapBackup/-92.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-92.dds
+- name: remastered/map/hb26.mapBackup/-93.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-93.dds
+- name: remastered/map/hb26.mapBackup/-94.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-94.dds
+- name: remastered/map/hb26.mapBackup/-95.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-95.dds
+- name: remastered/map/hb26.mapBackup/-96.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-96.dds
+- name: remastered/map/hb26.mapBackup/-97.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-97.dds
+- name: remastered/map/hb26.mapBackup/-98.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-98.dds
+- name: remastered/map/hb26.mapBackup/-99.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.mapBackup/-99.dds
