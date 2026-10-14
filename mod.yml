@@ -2921,3 +2921,107 @@ assets:
   method: copy
   source:
   - name: remastered/map/hb26.mapBackup/-99.dds
+- name: obj/M_EX950_DICE.mdlx
+  method: copy
+  source:
+  - name: obj/M_EX950_DICE.mdlx
+- name: remastered/msn/fr/EH14_MS103.bar/FR_EH14_MS103_bar0.png
+  method: copy
+  source:
+  - name: remastered/msn/fr/EH14_MS103.bar/FR_EH14_MS103_bar0.png
+- name: remastered/msn/fr/EH14_MS103.bar/FR_EH14_MS103_bar1.png
+  method: copy
+  source:
+  - name: remastered/msn/fr/EH14_MS103.bar/FR_EH14_MS103_bar1.png
+- name: remastered/msn/fr/EH14_MS103.bar/FR_EH14_MS103_bar2.png
+  method: copy
+  source:
+  - name: remastered/msn/fr/EH14_MS103.bar/FR_EH14_MS103_bar2.png
+- name: remastered/msn/gr/EH14_MS103.bar/GR_EH14_MS103_bar0.png
+  method: copy
+  source:
+  - name: remastered/msn/gr/EH14_MS103.bar/GR_EH14_MS103_bar0.png
+- name: remastered/msn/gr/EH14_MS103.bar/GR_EH14_MS103_bar1.png
+  method: copy
+  source:
+  - name: remastered/msn/gr/EH14_MS103.bar/GR_EH14_MS103_bar1.png
+- name: remastered/msn/gr/EH14_MS103.bar/GR_EH14_MS103_bar2.png
+  method: copy
+  source:
+  - name: remastered/msn/gr/EH14_MS103.bar/GR_EH14_MS103_bar2.png
+- name: remastered/msn/it/EH14_MS103.bar/IT_EH14_MS103_bar0.png
+  method: copy
+  source:
+  - name: remastered/msn/it/EH14_MS103.bar/IT_EH14_MS103_bar0.png
+- name: remastered/msn/it/EH14_MS103.bar/IT_EH14_MS103_bar1.png
+  method: copy
+  source:
+  - name: remastered/msn/it/EH14_MS103.bar/IT_EH14_MS103_bar1.png
+- name: remastered/msn/it/EH14_MS103.bar/IT_EH14_MS103_bar2.png
+  method: copy
+  source:
+  - name: remastered/msn/it/EH14_MS103.bar/IT_EH14_MS103_bar2.png
+- name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar0.png
+  method: copy
+  source:
+  - name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar0.png
+- name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar1.png
+  method: copy
+  source:
+  - name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar1.png
+- name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar2.png
+  method: copy
+  source:
+  - name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar2.png
+- name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar0.png
+  method: copy
+  source:
+  - name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar0.png
+- name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar1.png
+  method: copy
+  source:
+  - name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar1.png
+- name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar2.png
+  method: copy
+  source:
+  - name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar2.png
+- name: remastered/msn/fr/HB33_FM_LEX.bar/FR_HB33_FM_LEX_bar0.png
+  method: copy
+  source:
+  - name: remastered/msn/fr/HB33_FM_LEX.bar/FR_HB33_FM_LEX_bar0.png
+- name: remastered/msn/fr/HB33_FM_LEX.bar/FR_HB33_FM_LEX_bar1.png
+  method: copy
+  source:
+  - name: remastered/msn/fr/HB33_FM_LEX.bar/FR_HB33_FM_LEX_bar1.png
+- name: remastered/msn/gr/HB33_FM_LEX.bar/GR_HB33_FM_LEX_bar0.png
+  method: copy
+  source:
+  - name: remastered/msn/gr/HB33_FM_LEX.bar/GR_HB33_FM_LEX_bar0.png
+- name: remastered/msn/gr/HB33_FM_LEX.bar/GR_HB33_FM_LEX_bar1.png
+  method: copy
+  source:
+  - name: remastered/msn/gr/HB33_FM_LEX.bar/GR_HB33_FM_LEX_bar1.png
+- name: remastered/msn/it/HB33_FM_LEX.bar/IT_HB33_FM_LEX_bar0.png
+  method: copy
+  source:
+  - name: remastered/msn/it/HB33_FM_LEX.bar/IT_HB33_FM_LEX_bar0.png
+- name: remastered/msn/it/HB33_FM_LEX.bar/IT_HB33_FM_LEX_bar1.png
+  method: copy
+  source:
+  - name: remastered/msn/it/HB33_FM_LEX.bar/IT_HB33_FM_LEX_bar1.png
+- name: remastered/msn/sp/HB33_FM_LEX.bar/SP_HB33_FM_LEX_bar0.png
+  method: copy
+  source:
+  - name: remastered/msn/sp/HB33_FM_LEX.bar/SP_HB33_FM_LEX_bar0.png
+- name: remastered/msn/sp/HB33_FM_LEX.bar/SP_HB33_FM_LEX_bar1.png
+  method: copy
+  source:
+  - name: remastered/msn/sp/HB33_FM_LEX.bar/SP_HB33_FM_LEX_bar1.png
+- name: remastered/msn/us/HB33_FM_LEX.bar/US_HB33_FM_LEX_bar0.png
+  method: copy
+  source:
+  - name: remastered/msn/us/HB33_FM_LEX.bar/US_HB33_FM_LEX_bar0.png
+- name: remastered/msn/us/HB33_FM_LEX.bar/US_HB33_FM_LEX_bar1.png
+  method: copy
+  source:
+  - name: remastered/msn/us/HB33_FM_LEX.bar/US_HB33_FM_LEX_bar1.png
