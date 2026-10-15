@@ -3025,3 +3025,31 @@ assets:
   method: copy
   source:
   - name: remastered/msn/us/HB33_FM_LEX.bar/US_HB33_FM_LEX_bar1.png
+- name: obj/P_LM100.mdlx
+  method: copy
+  source:
+  - name: obj/P_LM100.mdlx
+- name: remastered/obj/P_LM100.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_LM100.a.us/-0.dds
+- name: remastered/obj/P_LM100.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_LM100.mdlx/-0.dds
+- name: remastered/obj/P_LM100.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_LM100.mdlx/-1.dds
+- name: remastered/obj/P_LM100.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_LM100.mdlx/-2.dds
+- name: remastered/obj/P_LM100.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_LM100.mdlx/-3.dds
+- name: remastered/obj/P_LM100.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_LM100.mdlx/-4.dds
