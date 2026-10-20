@@ -9609,3 +9609,123 @@ assets:
   method: copy
   source:
   - name: remastered/obj/H_EX500_TR_ULTF.mdlx/-4.dds
+- name: obj/H_EX500_XM.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500_XM.mdlx
+- name: remastered/obj/H_EX500_XM.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM.mdlx/-0.dds
+- name: remastered/obj/H_EX500_XM.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM.mdlx/-1.dds
+- name: remastered/obj/H_EX500_XM.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM.mdlx/-2.dds
+- name: remastered/obj/H_EX500_XM.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM.mdlx/-3.dds
+- name: obj/H_EX500_XM_BTLF.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500_XM_BTLF.mdlx
+- name: obj/H_EX500_XM_KH1F.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500_XM_KH1F.mdlx
+- name: obj/H_EX500_XM_MAGF.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500_XM_MAGF.mdlx
+- name: obj/H_EX500_XM_TRIF.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500_XM_TRIF.mdlx
+- name: obj/H_EX500_XM_ULTF.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500_XM_ULTF.mdlx
+- name: remastered/obj/H_EX500_XM_BTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_BTLF.mdlx/-0.dds
+- name: remastered/obj/H_EX500_XM_BTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_BTLF.mdlx/-1.dds
+- name: remastered/obj/H_EX500_XM_BTLF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_BTLF.mdlx/-2.dds
+- name: remastered/obj/H_EX500_XM_BTLF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_BTLF.mdlx/-3.dds
+- name: remastered/obj/H_EX500_XM_KH1F.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_KH1F.mdlx/-0.dds
+- name: remastered/obj/H_EX500_XM_KH1F.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_KH1F.mdlx/-1.dds
+- name: remastered/obj/H_EX500_XM_KH1F.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_KH1F.mdlx/-2.dds
+- name: remastered/obj/H_EX500_XM_KH1F.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_KH1F.mdlx/-3.dds
+- name: remastered/obj/H_EX500_XM_MAGF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_MAGF.mdlx/-0.dds
+- name: remastered/obj/H_EX500_XM_MAGF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_MAGF.mdlx/-1.dds
+- name: remastered/obj/H_EX500_XM_MAGF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_MAGF.mdlx/-2.dds
+- name: remastered/obj/H_EX500_XM_MAGF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_MAGF.mdlx/-3.dds
+- name: remastered/obj/H_EX500_XM_TRIF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_TRIF.mdlx/-0.dds
+- name: remastered/obj/H_EX500_XM_TRIF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_TRIF.mdlx/-1.dds
+- name: remastered/obj/H_EX500_XM_TRIF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_TRIF.mdlx/-2.dds
+- name: remastered/obj/H_EX500_XM_TRIF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_TRIF.mdlx/-3.dds
+- name: remastered/obj/H_EX500_XM_ULTF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_ULTF.mdlx/-0.dds
+- name: remastered/obj/H_EX500_XM_ULTF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_ULTF.mdlx/-1.dds
+- name: remastered/obj/H_EX500_XM_ULTF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_ULTF.mdlx/-2.dds
+- name: remastered/obj/H_EX500_XM_ULTF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_XM_ULTF.mdlx/-3.dds
