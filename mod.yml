@@ -9729,3 +9729,471 @@ assets:
   method: copy
   source:
   - name: remastered/obj/H_EX500_XM_ULTF.mdlx/-3.dds
+- name: remastered/map/eh21.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-0.dds
+- name: remastered/map/eh21.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-1.dds
+- name: remastered/map/eh21.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-10.dds
+- name: remastered/map/eh21.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-11.dds
+- name: remastered/map/eh21.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-12.dds
+- name: remastered/map/eh21.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-13.dds
+- name: remastered/map/eh21.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-14.dds
+- name: remastered/map/eh21.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-15.dds
+- name: remastered/map/eh21.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-16.dds
+- name: remastered/map/eh21.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-17.dds
+- name: remastered/map/eh21.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-18.dds
+- name: remastered/map/eh21.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-19.dds
+- name: remastered/map/eh21.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-2.dds
+- name: remastered/map/eh21.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-20.dds
+- name: remastered/map/eh21.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-21.dds
+- name: remastered/map/eh21.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-22.dds
+- name: remastered/map/eh21.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-3.dds
+- name: remastered/map/eh21.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-4.dds
+- name: remastered/map/eh21.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-5.dds
+- name: remastered/map/eh21.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-6.dds
+- name: remastered/map/eh21.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-7.dds
+- name: remastered/map/eh21.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-8.dds
+- name: remastered/map/eh21.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/eh21.map/-9.dds
+- name: remastered/map/tt32.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-0.dds
+- name: remastered/map/tt32.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-1.dds
+- name: remastered/map/tt32.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-10.dds
+- name: remastered/map/tt32.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-11.dds
+- name: remastered/map/tt32.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-12.dds
+- name: remastered/map/tt32.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-13.dds
+- name: remastered/map/tt32.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-14.dds
+- name: remastered/map/tt32.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-15.dds
+- name: remastered/map/tt32.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-16.dds
+- name: remastered/map/tt32.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-17.dds
+- name: remastered/map/tt32.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-18.dds
+- name: remastered/map/tt32.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-19.dds
+- name: remastered/map/tt32.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-2.dds
+- name: remastered/map/tt32.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-3.dds
+- name: remastered/map/tt32.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-4.dds
+- name: remastered/map/tt32.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-5.dds
+- name: remastered/map/tt32.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-6.dds
+- name: remastered/map/tt32.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-7.dds
+- name: remastered/map/tt32.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-8.dds
+- name: remastered/map/tt32.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/tt32.map/-9.dds
+- name: remastered/map/tt33.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-0.dds
+- name: remastered/map/tt33.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-1.dds
+- name: remastered/map/tt33.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-10.dds
+- name: remastered/map/tt33.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-11.dds
+- name: remastered/map/tt33.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-12.dds
+- name: remastered/map/tt33.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-13.dds
+- name: remastered/map/tt33.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-14.dds
+- name: remastered/map/tt33.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-15.dds
+- name: remastered/map/tt33.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-16.dds
+- name: remastered/map/tt33.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-17.dds
+- name: remastered/map/tt33.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-18.dds
+- name: remastered/map/tt33.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-19.dds
+- name: remastered/map/tt33.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-2.dds
+- name: remastered/map/tt33.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-20.dds
+- name: remastered/map/tt33.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-21.dds
+- name: remastered/map/tt33.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-22.dds
+- name: remastered/map/tt33.map/-23.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-23.dds
+- name: remastered/map/tt33.map/-24.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-24.dds
+- name: remastered/map/tt33.map/-25.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-25.dds
+- name: remastered/map/tt33.map/-26.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-26.dds
+- name: remastered/map/tt33.map/-27.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-27.dds
+- name: remastered/map/tt33.map/-28.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-28.dds
+- name: remastered/map/tt33.map/-29.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-29.dds
+- name: remastered/map/tt33.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-3.dds
+- name: remastered/map/tt33.map/-30.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-30.dds
+- name: remastered/map/tt33.map/-31.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-31.dds
+- name: remastered/map/tt33.map/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-32.dds
+- name: remastered/map/tt33.map/-33.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-33.dds
+- name: remastered/map/tt33.map/-34.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-34.dds
+- name: remastered/map/tt33.map/-35.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-35.dds
+- name: remastered/map/tt33.map/-36.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-36.dds
+- name: remastered/map/tt33.map/-37.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-37.dds
+- name: remastered/map/tt33.map/-38.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-38.dds
+- name: remastered/map/tt33.map/-39.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-39.dds
+- name: remastered/map/tt33.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-4.dds
+- name: remastered/map/tt33.map/-40.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-40.dds
+- name: remastered/map/tt33.map/-41.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-41.dds
+- name: remastered/map/tt33.map/-42.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-42.dds
+- name: remastered/map/tt33.map/-43.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-43.dds
+- name: remastered/map/tt33.map/-44.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-44.dds
+- name: remastered/map/tt33.map/-45.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-45.dds
+- name: remastered/map/tt33.map/-46.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-46.dds
+- name: remastered/map/tt33.map/-47.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-47.dds
+- name: remastered/map/tt33.map/-48.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-48.dds
+- name: remastered/map/tt33.map/-49.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-49.dds
+- name: remastered/map/tt33.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-5.dds
+- name: remastered/map/tt33.map/-50.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-50.dds
+- name: remastered/map/tt33.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-6.dds
+- name: remastered/map/tt33.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-7.dds
+- name: remastered/map/tt33.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-8.dds
+- name: remastered/map/tt33.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/tt33.map/-9.dds
+- name: remastered/map/tt34.map/-0.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-0.dds
+- name: remastered/map/tt34.map/-1.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-1.dds
+- name: remastered/map/tt34.map/-10.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-10.dds
+- name: remastered/map/tt34.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-11.dds
+- name: remastered/map/tt34.map/-12.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-12.dds
+- name: remastered/map/tt34.map/-13.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-13.dds
+- name: remastered/map/tt34.map/-14.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-14.dds
+- name: remastered/map/tt34.map/-15.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-15.dds
+- name: remastered/map/tt34.map/-16.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-16.dds
+- name: remastered/map/tt34.map/-17.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-17.dds
+- name: remastered/map/tt34.map/-18.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-18.dds
+- name: remastered/map/tt34.map/-19.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-19.dds
+- name: remastered/map/tt34.map/-2.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-2.dds
+- name: remastered/map/tt34.map/-20.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-20.dds
+- name: remastered/map/tt34.map/-21.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-21.dds
+- name: remastered/map/tt34.map/-22.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-22.dds
+- name: remastered/map/tt34.map/-3.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-3.dds
+- name: remastered/map/tt34.map/-4.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-4.dds
+- name: remastered/map/tt34.map/-5.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-5.dds
+- name: remastered/map/tt34.map/-6.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-6.dds
+- name: remastered/map/tt34.map/-7.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-7.dds
+- name: remastered/map/tt34.map/-8.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-8.dds
+- name: remastered/map/tt34.map/-9.dds
+  method: copy
+  source:
+  - name: remastered/map/tt34.map/-9.dds
