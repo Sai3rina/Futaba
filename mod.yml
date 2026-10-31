@@ -10197,3 +10197,119 @@ assets:
   method: copy
   source:
   - name: remastered/map/tt34.map/-9.dds
+- name: obj/P_EH000.mdlx
+  method: copy
+  source:
+  - name: obj/P_EH000.mdlx
+- name: obj/P_EH000_LAST.mdlx
+  method: copy
+  source:
+  - name: obj/P_EH000_LAST.mdlx
+- name: obj/P_EH000_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/P_EH000_RTN.mdlx
+- name: obj/P_EH000_SIDECAR.mdlx
+  method: copy
+  source:
+  - name: obj/P_EH000_SIDECAR.mdlx
+- name: voice/us/battle/eh0_riku.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/eh0_riku.win32.scd
+- name: remastered/obj/P_EH000.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000.a.us/-6.dds
+- name: remastered/obj/P_EH000.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000.mdlx/-0.dds
+- name: remastered/obj/P_EH000.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000.mdlx/-1.dds
+- name: remastered/obj/P_EH000.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000.mdlx/-2.dds
+- name: remastered/obj/P_EH000.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000.mdlx/-3.dds
+- name: remastered/obj/P_EH000.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000.mdlx/-4.dds
+- name: remastered/obj/P_EH000_LAST.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_LAST.a.us/-6.dds
+- name: remastered/obj/P_EH000_LAST.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_LAST.mdlx/-0.dds
+- name: remastered/obj/P_EH000_LAST.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_LAST.mdlx/-1.dds
+- name: remastered/obj/P_EH000_LAST.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_LAST.mdlx/-2.dds
+- name: remastered/obj/P_EH000_LAST.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_LAST.mdlx/-3.dds
+- name: remastered/obj/P_EH000_LAST.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_LAST.mdlx/-4.dds
+- name: remastered/obj/P_EH000_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_RTN.mdlx/-0.dds
+- name: remastered/obj/P_EH000_RTN.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_RTN.mdlx/-1.dds
+- name: remastered/obj/P_EH000_RTN.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_RTN.mdlx/-2.dds
+- name: remastered/obj/P_EH000_RTN.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_RTN.mdlx/-3.dds
+- name: remastered/obj/P_EH000_RTN.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_RTN.mdlx/-4.dds
+- name: remastered/obj/P_EH000_SIDECAR.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_SIDECAR.a.us/-0.dds
+- name: remastered/obj/P_EH000_SIDECAR.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_SIDECAR.mdlx/-0.dds
+- name: remastered/obj/P_EH000_SIDECAR.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_SIDECAR.mdlx/-1.dds
+- name: remastered/obj/P_EH000_SIDECAR.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_SIDECAR.mdlx/-2.dds
+- name: remastered/obj/P_EH000_SIDECAR.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_SIDECAR.mdlx/-3.dds
+- name: remastered/obj/P_EH000_SIDECAR.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EH000_SIDECAR.mdlx/-4.dds
+- name: remastered/menu/shopface/p_eh000.bin/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_eh000.bin/-0.dds

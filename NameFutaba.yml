@@ -5,6 +5,12 @@
   sp: '{:icon ai-settings}Futaba Attack'
   fr: '{:icon ai-settings}Futaba Attack'
   it: '{:icon ai-settings}Futaba Attack'
+- id: 1324
+  en: 'Joker'
+  gr: 'Joker'
+  sp: 'Joker'
+  fr: 'Joker'
+  it: 'Joker'
 - id: 1311
   en: 'Futaba'
   gr: 'Futaba'
