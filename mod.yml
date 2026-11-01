@@ -1,6 +1,6 @@
 title: Futaba
 originalAuthor: Sai3rina
-description: HT added and XMass
+description: Added Lion Form and another cat hehe
 dependencies: 
 assets:
 - name: dll/KH2Moose.dll
@@ -10313,3 +10313,23 @@ assets:
   method: copy
   source:
   - name: remastered/menu/shopface/p_eh000.bin/-0.dds
+- name: obj/N_EX730_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX730_RTN.mdlx
+- name: obj/N_EX730_TUTORIAL_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX730_TUTORIAL_RTN.mdlx
+- name: remastered/obj/N_EX730_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX730_RTN.mdlx/-0.dds
+- name: remastered/obj/N_EX730_TUTORIAL_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX730_TUTORIAL_RTN.mdlx/-0.dds
+- name: remastered/obj/P_LK100.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_LK100.mdlx/-1.dds
