@@ -10333,3 +10333,19 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_LK100.mdlx/-1.dds
+- name: obj/H_EX500_NM.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500_NM.mdlx
+- name: remastered/obj/H_EX500_NM.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_NM.mdlx/-0.dds
+- name: remastered/obj/H_EX500_NM.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_NM.mdlx/-1.dds
+- name: remastered/obj/H_EX500_NM.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_NM.mdlx/-2.dds
